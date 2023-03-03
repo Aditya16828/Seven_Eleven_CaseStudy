@@ -8,7 +8,7 @@ The data consists of sales for 45 country-wide stores located in different regio
 **Dataset information:**
 
 This data contains sales and realted information from 2010-02-05 to 2012-11-01, in the file seven_eleven_sales. There are following fields in the file :
-  - Store - Store #
+  - Store - Store
   - Date - Sale date
   - Weekly_Sales -  sales for the store on a given date
   - Holiday_Flag - 1/0 depending on holiday period or not
