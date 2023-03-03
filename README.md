@@ -8,14 +8,14 @@ The data consists of sales for 45 country-wide stores located in different regio
 **Dataset information:**
 
 This data contains sales and realted information from 2010-02-05 to 2012-11-01, in the file seven_eleven_sales. There are following fields in the file :
-  - Store - Store
-  - Date - Sale date
-  - Weekly_Sales -  sales for the store on a given date
-  - Holiday_Flag - 1/0 depending on holiday period or not
-  - Temperature - Temperature on the sale day
-  - Fuel_Price - Fuel price on sale day in that region
-  - CPI – current consumer price index
-  - Unemployment - current unemployment rate
+  - `Store` - Store
+  - `Date` - Sale date
+  - `Weekly_Sales` -  sales for the store on a given date
+  - `Holiday_Flag` - 1/0 depending on holiday period or not
+  - `Temperature` - Temperature on the sale day
+  - `Fuel_Price` - Fuel price on sale day in that region
+  - `CPI` – current consumer price index
+  - `Unemployment` - current unemployment rate
   - Holiday Events:
     - Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
     - Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
